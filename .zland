@@ -1,0 +1,6 @@
+{
+  "name": "Debug Controls",
+  "resolveAlias": "debugControls",
+  "author": "Florian Biewald",
+  "canvasViews": ["components/DebugControls"]
+}
